@@ -8,7 +8,7 @@ Journal holding notes for Code 102 and Code 201.
 Hello, I am Ernesto Cardenas. Living in Miami, Florida. Currently in the Tech field as a Windows Engineer. I have a bachelor’s in Computer Science from Florida International University be a strong background in Cloud computing. I looking to transition into a software developer role!
 
 ## *Growth Mindset*
-A growth mindset is my approach to life in which I believes that my talents, intelligence, and abilities can be developed further. 
+To me a growth mindset is my approach to life believeing that my talents, intelligence, and abilities can be developed further. 
 
 
 
