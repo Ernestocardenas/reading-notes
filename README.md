@@ -1,5 +1,3 @@
-# reading-notes
-
 # My Reading Notes
 
 Journal holding notes for Code 102 and Code 201.
