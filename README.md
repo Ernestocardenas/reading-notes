@@ -10,11 +10,11 @@ Hello, I am Ernesto Cardenas. Living in Miami, Florida. Currently in the Tech fi
 ## *Growth Mindset*
 A growth mindset is my approach to life in which I believes that my talents, intelligence, and abilities can be developed further. 
 
-Link to [my github portfolio](https://github.com/ernestocardenas).
+
 
 # Code 102 Reading Notes
 
 
 |Contact Info|  |
 --- | --- |
-|Ernestoacardenas@icloud.com|
+|Ernestoacardenas@icloud.com| [GitHub](https://github.com/ernestocardenas)|
