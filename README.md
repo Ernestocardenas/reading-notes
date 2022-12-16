@@ -1,7 +1,5 @@
 # My Reading Notes
 
-Journal holding notes for Code 102 and Code 201.
-
 ![Me](profile_picture.jpg)
 
 ## *About Me*
@@ -11,10 +9,11 @@ Hello, I am Ernesto Cardenas. Living in Miami, Florida. Currently in the Tech fi
 To me a growth mindset is my approach to life believeing that my talents, intelligence, and abilities can be developed further. 
 
 
+# Journals
 
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
-| Classes | | | |
+| Classes |
 | ----------- | ----------- |  ----------- |  ----------- |
 | [Class 1](Code102__Notes/class1.md) | [Class 2](Code102__Notes/class2.md) | [Class 3](Code102__Notes/class3.md) | [Class 4](Code102__Notes/class4.md) 
 | [Class 5](Code102__Notes/class5.md) | [Class 6](Code102__Notes/class6.md) |	[Class 7](Code102__Notes/class7.md) | [Class 8](Code102__Notes/class8.md) 
