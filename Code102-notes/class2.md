@@ -4,7 +4,8 @@
 ## Git Commands
 
 git init
-- This command is used to start a new repository.
+
+- This command is used to start a new repository
 
 git clone
 
