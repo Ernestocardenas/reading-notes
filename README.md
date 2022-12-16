@@ -9,9 +9,9 @@ Hello, I am Ernesto Cardenas. Living in Miami, Florida. Currently in the Tech fi
 To me a growth mindset is my approach to life believeing that my talents, intelligence, and abilities can be developed further. 
 
 
-# Journals
+## Journals
 
-## Code 102 Reading Notes
+### Code 102 Reading Notes
 
 | Classes |
 | ----------- | ----------- |  ----------- |  ----------- |
