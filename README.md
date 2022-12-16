@@ -1,17 +1,17 @@
-# My Reading Notes
+# **My Reading Notes**
 
 ![Me](profile_picture.jpg)
 
-## *About Me*
+### *About Me*
 Hello, I am Ernesto Cardenas. Living in Miami, Florida. Currently in the Tech field as a Windows Engineer. I have a bachelor’s in Computer Science from Florida International University be a strong background in Cloud computing. I looking to transition into a software developer role!
 
-## *Growth Mindset*
+### *Growth Mindset*
 To me a growth mindset is my approach to life believeing that my talents, intelligence, and abilities can be developed further. 
 
 
-## Journals
+## **Journals**
 
-### Code 102 Reading Notes
+### *Code 102 Reading Notes*
 
 | Classes |
 | ----------- | ----------- |  ----------- |  ----------- |
