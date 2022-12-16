@@ -15,8 +15,8 @@ To me a growth mindset is my approach to life believeing that my talents, intell
 
 | Classes |
 | ----------- | ----------- |  ----------- |  ----------- |
-| [Class 1](Code102__Notes/class1.md) | [Class 2](Code102__Notes/class2.md) | [Class 3](Code102__Notes/class3.md) | [Class 4](Code102__Notes/class4.md) 
-| [Class 5](Code102__Notes/class5.md) | [Class 6](Code102__Notes/class6.md) |	[Class 7](Code102__Notes/class7.md) | [Class 8](Code102__Notes/class8.md) 
+| [Class 1](Code102_Notes/class01.md) | [Class 2](Code102_Notes/class2.md) | [Class 3](Code102_Notes/class3.md) | [Class 4](Code102_Notes/class4.md) 
+| [Class 5](Code102_Notes/class5.md) | [Class 6](Code102_Notes/class6.md) |	[Class 7](Code102_Notes/class7.md) | [Class 8](Code102_Notes/class8.md) 
 
 
 |Contact Info|  |
