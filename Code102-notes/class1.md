@@ -12,19 +12,11 @@ independent it can run on any device. Markdown is platform independent and can r
 
 ## **Examples**
 
-| Styling Text |
+### *Styling Text*
 
-|--------|--------|
-
-| Bold |	** ** or __ __ |
-
-| Italic |	* * or _ _ 
-
-|Strikethrough |	~~ ~~	
-
-|Bold and nested italic |	** ** and _ _
-
-|All bold and italic |	*** ***
-
-|Subscript |	<sub> </sub>
-|Superscript |	<sup> </sup>	
+| Description   | Syntax           |
+| :---          | :---             |
+| Bold          | ** ** or __ __   |
+| Italic        | * * or _ _       |
+| Strikethrough | ~~ ~~	           |
+| Bold & italic | ** ** and _ _    |
