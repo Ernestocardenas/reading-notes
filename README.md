@@ -23,7 +23,7 @@
  [Class 9](Code201-notes/class9.md) | [Class 10](Code201-notes/class10.md) |
  [Class 11](Code201-notes/class11.md) | [Class 12](Code201-notes/class12.md) |
  [Class 13](Code201-notes/class13.md) | [Class 14](Code201-notes/class14.md) |
- [Class 15](Code201-notes/class15.md) 
+ [Class 15](Code201-notes/class15.md) |
 
 ### **Code 301 Reading Notes**
 *Intermediate Software Development*
